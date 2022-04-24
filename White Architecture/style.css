@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-image: url(./images/MAdrid\,\ Spain@2x.png);
+    background-size: 1320px 600px;
+    background-repeat: no-repeat;
+}
+
+div h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #A0A2A3;
+}
+
+h6 {
+    color: #A0A2A3;
+}
+
+.div2 {
+    width: 100%;
+    height: 550px;
+    background-color: #333;
+}
+
+.div22 h1 {
+    /* border: 1px solid black; */
+    width: 320px;
+    height: 100px;
+    margin-top: 250px;
+    margin-left: 250px;
+}
+
+.image1 {
+    margin-top: 190px;
+    margin-left: 705px;
+    width: 270px;
+    height: 300px;
+    position: absolute;
+}
+
+.div1 {
+    opacity: 1;
+}
+
+.div11 {
+    background-color: #333;
+}
+
+.navbar {
+    text-align: right;
+    overflow: hidden;
+    color: #A0A2A3;
+    background-color: #333;
+    position: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a {
+    display: inline-block;
+    color: #A0A2A3;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.navbar a:hover {
+    background: #ddd;
+    color: black;
+}
